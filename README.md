@@ -12,10 +12,10 @@ Version 1.0
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 ##This repo contains 4 files:
-### *run_analysis.R
-### *CodeBook.md
-### *tidy_end_result.txt
-### *README.md.
+### * run_analysis.R
+### * CodeBook.md
+### * tidy_end_result.txt
+### * README.md.
 
 This README.md file explains the other 3 files.  
 
