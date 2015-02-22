@@ -12,12 +12,12 @@ Version 1.0
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 ##This repo contains 4 files:
-### * run_analysis.R
-### * CodeBook.md
-### * tidy_end_result.txt
-### * README.md.
+ * __run_analysis.R__
+ * __CodeBook.md__
+ * __tidy_end_result.txt__
+ * __README.md__.
 
-This README.md file explains the other 3 files.  
+This **README.md** file explains the other 3 files.  
 
 **run_analysis.R** is the R script that I wrote to process the source data.  The script includes the R commands to download the zipped file to the working directory on a Windows pc.  If the user already has
 the data file unzipped, the user can submit lines 18 through 81 to do the processing.  Line 85 of the script writes the tidy data set to a text file, while lines 91 - 92 of the script write the column names 
