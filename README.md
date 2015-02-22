@@ -34,6 +34,7 @@ I downloaded the zipped source file into the working directory.  The data for th
 The feature names listed in features.txt are not valid names in R.  I converted those feature names to valid variable names in R with the **make.names** function. 
 
 I read the test data file into a data frame, the subject identifier file into a vector, and the activity identifier file into a vector.  I combined the data into one data frame.  
+
 I followed the same procedure for the train data.  
 
 I combined the data frames.  From the combined data, I selected the subject identifiers, the activity identifiers, and the features that contained a mean or standard deviation of the normalized measurement.
